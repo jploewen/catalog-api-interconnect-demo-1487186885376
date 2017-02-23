@@ -25,14 +25,6 @@ var populateDB = function() {
         imgsrc:'http://upload.wikimedia.org/wikipedia/commons/6/62/FAS_Foosball_table_1.jpg'
     },
     {
-        name: 'Airplane',
-        color: 'white',
-        quantity: 1,
-        description: 'Lufthansa Airbus A320-211',
-        usaDollarPrice: 12,388,500.00,
-        imgsrc:'https://en.wikipedia.org/wiki/Main_Page#/media/File:Lufthansa_Airbus_A320-211_D-AIQT_01.jpg'
-    },   
-    {
         name: 'Ping pong table',
         color: 'green',
         quantity: 7,
