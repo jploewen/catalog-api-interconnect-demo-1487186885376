@@ -64,6 +64,14 @@ var populateDB = function() {
         usaDollarPrice: 159.99,
         imgsrc:'http://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/LG_L194WT-SF_LCD_monitor.jpg/1191px-LG_L194WT-SF_LCD_monitor.jpg'
     },
+    { 
+        name: 'Airplane', 
+        color: 'white', 
+        quantity: 1, 
+        description: 'Lufthansa Airbus A320-211', 
+        usaDollarPrice: 12388500.00, 
+        imgsrc:'https://en.wikipedia.org/wiki/Main_Page#/media/File:Lufthansa_Airbus_A320-211_D-AIQT_01.jpg' 
+    }, 
     {
         name: 'Water Bottle',
         color: 'orange, blue, yellow',
