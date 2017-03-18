@@ -64,14 +64,6 @@ var populateDB = function() {
         usaDollarPrice: 159.99,
         imgsrc:'http://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/LG_L194WT-SF_LCD_monitor.jpg/1191px-LG_L194WT-SF_LCD_monitor.jpg'
     },
-    { 
-        name: 'Airplane', 
-        color: 'white', 
-        quantity: 1, 
-        description: 'Lufthansa Airbus A320-211', 
-        usaDollarPrice: 12388500.00, 
-        imgsrc:'https://en.wikipedia.org/wiki/Main_Page#/media/File:Lufthansa_Airbus_A320-211_D-AIQT_01.jpg' 
-    }, 
     {
         name: 'Water Bottle',
         color: 'orange, blue, yellow',
@@ -81,6 +73,7 @@ var populateDB = function() {
         imgsrc:'http://upload.wikimedia.org/wikipedia/commons/0/07/Multi-use_water_bottle.JPG'
     },
     // New items to add to catalog
+    /*
     {
         name: 'Outdoor ping pong table',
         color: 'green',
@@ -105,6 +98,7 @@ var populateDB = function() {
         usaDollarPrice: 67900.97,
         imgsrc:'https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/%D0%9E%D0%B3%D0%BE%D0%BD%D0%B5%D0%BA_1917-32.pdf/page1-1285px-%D0%9E%D0%B3%D0%BE%D0%BD%D0%B5%D0%BA_1917-32.pdf.jpg'
     }
+    */
     // End - New items to add to catalog
     ];
 
